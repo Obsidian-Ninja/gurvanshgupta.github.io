@@ -1,18 +1,18 @@
 {
-  "name": "brittanychiang.com",
+  "name": "https://github.com/Obsidian-Ninja/gurvanshgupta.github.io",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "A curiosity-fueled software engineer turning logic into experiences that feel like magic.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/Obsidian-Ninja/gurvanshgupta.github.io"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/Obsidian-Ninja/gurvanshgupta.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Gurvansh Gupta",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
