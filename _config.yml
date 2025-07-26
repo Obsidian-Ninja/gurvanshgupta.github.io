@@ -3,11 +3,11 @@ name: Gurvansh Gupta
 title: Gurvansh Gupta | Software Development Engineer
 description: I am a software development engineer with a passion for building scalable and efficient systems.
 url: https://gurvanshgupta.github.io/
-baseurl: ''
+baseurl: '/gurvanshgupta.github.io'
 email: dev.gurvansh.gupta@gmail.com
 cover: https://gurvanshgupta.github.io/img/og.png
-logo: https://gurvanshgupta.github.io/img/emojis/technologist.png
-resume: https://gurvanshgupta.github.io/resume.pdf
+logo: https://gurvanshgupta.github.io/img/technologist.png
+resume: /gurvanshgupta.github.io/resume.pdf
 social:
   - title: email
     url: dev.gurvansh.gupta@gmail.com
